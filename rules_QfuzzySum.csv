@@ -1,0 +1,68 @@
+QTitleSim,QDescriptionSim,KeyScore,RelPos,Length,Rank
+Low,Average,High ,Begin,Short,Average
+Average,High,High ,Begin,Short,High
+High,High,Average,Begin,Short,High
+Low,High,High ,Begin,Short,High
+Low,High,Average,Begin,Short,Average
+Average,Low,High ,Begin,Short,Average
+High,Low,Low,Begin,Short,Average
+Low,Low,High ,Begin,Short,Average
+Low,Average,High ,End,Short,Average
+Average,High,High ,End,Short,High
+High,High,Average,End,Short,High
+Low,High,High ,End,Short,High
+Low,High,Average,End,Short,Average
+Average,Low,High ,End,Short,Average
+High,Low,Low,End,Short,Average
+Low,Low,High ,End,Short,Average
+Low,Average,High ,Middle,Short,Low
+Average,High,High ,Middle,Short,Average
+High,High,High ,Middle,Short,High
+High,High,Average,Middle,Short,Average
+Low,High,High ,Middle,Short,Average
+Low,High,Average,Middle,Short,Low
+Average,Low,High ,Middle,Short,Low
+High,Low,Low,Middle,Short,Low
+Low,Low,High ,Middle,Short,Low
+Average,Average,High ,,Short,Average
+High,Average,High ,,Short,High
+High,Average,Low,,Short,Average
+High,High,Low,,Short,High
+High,Low,High ,,Short,High
+Average,Average,High ,Begin,Long,Average
+High,Average,High ,Begin,Long,High
+High,Average,Low,Begin,Long,Average
+High,Low,High ,Begin,Long,High
+Average,Average,High ,End,Long,Average
+High,Average,High ,End,Long,High
+High,Average,Low,End,Long,Average
+High,Low,High ,End,Long,High
+Average,Average,High ,Middle,Long,Low
+High,Average,High ,Middle,Long,Average
+High,Average,Low,Middle,Long,Low
+High,High,High ,Middle,Long,Average
+High,Low,High ,Middle,Long,Average
+Low,Average,High ,,Long,Low
+Average,High,High ,,Long,Average
+High,High,Average,,Long,Average
+High,High,Low,,Long,Average
+Low,High,High ,,Long,Average
+Low,High,Average,,Long,Low
+Average,Low,High ,,Long,Low
+High,Low,Low,,Long,Low
+Low,Low,High ,,Long,Low
+High,High,High ,Begin,,High
+High,High,High ,End,,High
+Average,Average,Average,,,Low
+Average,Average,Low,,,Low
+High,Average,Average,,,Average
+Low,Average,Average,,,Low
+Low,Average,Low,,,Low
+Average,High,Average,,,Average
+Average,High,Low,,,Average
+Low,High,Low,,,Low
+Average,Low,Average,,,Low
+Average,Low,Low,,,Low
+High,Low,Average,,,Average
+Low,Low,Average,,,Low
+Low,Low,Low,,,Low
